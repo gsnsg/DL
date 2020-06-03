@@ -1,4 +1,5 @@
 **Target**: Learn about GANS and implement them in Tensorflow/Keras
+
 **Today's Progress**: Implemented traditional GAN on Fashion Mnist dataset in Keras and the results were okay
 
 **Thoughts:**  GANS are highly unstable to train since it is a Mini-Max game where two players compete in this case Generator and Discriminator. Next I will try to implement Pix2Pix GAN should see how it goes.
